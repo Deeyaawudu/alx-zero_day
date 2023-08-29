@@ -1,1 +1,1 @@
-My first readme
+love doing hard things
